@@ -1,1 +1,1 @@
-# DataCamp
+# DataCamp training materials
